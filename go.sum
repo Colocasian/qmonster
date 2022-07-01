@@ -1,3 +1,5 @@
+github.com/apache/qpid-proton v0.0.0-20220624173714-c33f1abc1793 h1:Adp6zMcF1PoG73UWgUnUu2S2vugdCMmwTBMgFJYNSII=
+github.com/apache/qpid-proton v0.0.0-20220624173714-c33f1abc1793/go.mod h1:KzZ93AoKqo5DrIyNm7lQ8geWIJWngn+vLwKSpRtJ/cc=
 github.com/cpuguy83/go-md2man/v2 v2.0.2/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/inconshreveable/mousetrap v1.0.0 h1:Z8tu5sraLXCXIcARxBp/8cbvlwVa7Z1NHg9XEKhtSvM=
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
